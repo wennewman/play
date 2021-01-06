@@ -1,9 +1,9 @@
 {
-  "Loan type" : "Personal loan",
-  "Best rate" : 5.35,
-  "Worst rate" : 17.99,
-  "Min term" : 1,
-  "Max term" : 10,
+  "loanType" : "Personal loan",
+  "bestRate" : 5.35,
+  "worstRate" : 17.99,
+  "minTerm" : 1,
+  "maxTerm" : 10,
   "Lenders" : [
     {
         "Name" : "Sydney Mutual Bank",
