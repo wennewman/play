@@ -1,49 +1,49 @@
 {
-  "loanType" : "Personal loan",
-  "bestRate" : 5.35,
-  "worstRate" : 17.99,
-  "minTerm" : 1,
-  "maxTerm" : 10,
-  "Lenders" : [
+    "loanType" : "Personal loan",
+    "bestRate" : 5.35,
+    "worstRate" : 17.99,
+    "minTerm" : 1,
+    "maxTerm" : 10,
+    "Lenders" : [
     {
         "Name" : "Sydney Mutual Bank",
-        "Advertised interest rate" : 6.10,
-        "Comparison rate" : 6.10,
+        "advertisedRate" : 6.10,
+        "comparisonRate" : 6.10,
         "Unsecured" : true,
-        "Application fee" : 0,
-        "Fee structure" : "N/A"
+        "applicationFee" : 0,
+        "feeStructure" : "N/A"
     },
     {
         "Name" : "Symple",
-        "Advertised interest rate" : 5.75,
-        "Comparison rate" : 25.99,
+        "advertisedRate" : 5.75,
+        "comparisonRate" : 25.99,
         "Unsecured" : true,
-        "Application fee" : 10,
-        "Fee structure" : "Monthly service fee"
+        "applicationFee" : 10,
+        "feeStructure" : "Monthly service fee"
     },
     {
         "Name" : "Australian Military Bank",
-        "Advertised interest rate" : 5.35,
-        "Comparison rate" : 8.23,
+        "advertisedRate" : 5.35,
+        "comparisonRate" : 8.23,
         "Unsecured" : true,
-        "Application fee" : 100,
-        "Fee structure" : "Once off"
+        "applicationFee" : 100,
+        "feeStructure" : "Once off"
     },
     {
         "Name" : "Endeavour Mutual Bank",
-        "Advertised interest rate" : 7.99,
-        "Comparison rate" : 9.02,
+        "advertisedRate" : 7.99,
+        "comparisonRate" : 9.02,
         "Unsecured" : true,
-        "Application fee" : 150,
-        "Fee structure" : "Once off"
+        "applicationFee" : 150,
+        "feeStructure" : "Once off"
     },
     {
         "Name" : "Move Bank",
-        "Advertised interest rate" : 8.97,
-        "Comparison rate" : 10.01,
+        "advertisedRate" : 8.97,
+        "comparisonRate" : 10.01,
         "Unsecured" : true,
-        "Application fee" : 150,
-        "Fee structure" : "Once off"
+        "applicationFee" : 150,
+        "feeStructure" : "Once off"
     }
   ]
 }
